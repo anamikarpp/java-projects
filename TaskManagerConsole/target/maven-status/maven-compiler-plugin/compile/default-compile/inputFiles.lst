@@ -1,0 +1,8 @@
+J:\2025Goals\TaskManagerConsole\src\main\java\taskManager\dao\TaskDAO.java
+J:\2025Goals\TaskManagerConsole\src\main\java\taskManager\dao\TaskDAOImpl.java
+J:\2025Goals\TaskManagerConsole\src\main\java\taskManager\exception\CustomException.java
+J:\2025Goals\TaskManagerConsole\src\main\java\taskManager\Main.java
+J:\2025Goals\TaskManagerConsole\src\main\java\taskManager\model\Task.java
+J:\2025Goals\TaskManagerConsole\src\main\java\taskManager\service\TaskService.java
+J:\2025Goals\TaskManagerConsole\src\main\java\taskManager\util\DBConnection.java
+J:\2025Goals\TaskManagerConsole\src\main\java\taskManager\util\TaskChecker.java

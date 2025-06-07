@@ -1,0 +1,8 @@
+taskManager\service\TaskService.class
+taskManager\exception\CustomException.class
+taskManager\Main.class
+taskManager\util\TaskChecker.class
+taskManager\dao\TaskDAO.class
+taskManager\dao\TaskDAOImpl.class
+taskManager\util\DBConnection.class
+taskManager\model\Task.class
